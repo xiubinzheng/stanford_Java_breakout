@@ -14,7 +14,10 @@ public class Breakout extends GraphicsProgram {
 		
 	}
 
-	
+	public Breakout(int ballCount,int width, int height)
+	{
+		
+	}
 	
 	// Width and height of application window in pixels 
 
